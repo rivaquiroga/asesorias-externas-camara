@@ -16,3 +16,12 @@ La base de datos tiene 1980 observaciones para 9 variables:
 | tipo de informe | si es informe final o parcial |
 | doc | enlace al pdf del informe |
 | formulario | enlace al formulario de actividades desarrolladas |
+
+
+## Una imagen
+
+Como referencia, una imagen. La Fundación Jaime Guzmán se llevó casi el 40% de los fondos invertidos en asesorías externas. 
+
+<p align="center">
+<img src="repartija.png"/>
+</p>
