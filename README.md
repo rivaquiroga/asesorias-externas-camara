@@ -1,4 +1,4 @@
-# Asesorías externas de la Cámara de Diputadas y Diputados de Chile (2018-2022)
+# Gastos en asesorías externas de la Cámara de Diputadas y Diputados de Chile (2018-2022)
 
 ## Los datos
 
