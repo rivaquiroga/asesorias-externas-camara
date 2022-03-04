@@ -10,6 +10,7 @@ La base de datos tiene 1980 observaciones para 9 variables:
 | anio | año de la asesoría |
 | mes | mes de la asesoría |
 | folio | folio de la asesoría |
+| asesor | nombre de la persona o institución que realizó la asesoría |
 | monto | monto pagado por el serivicio |
 | diputado | nombre del diputado o diputada solicitante |
 | tipo de informe | si es informe final o parcial |
